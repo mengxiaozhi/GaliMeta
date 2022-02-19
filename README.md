@@ -1,1 +1,2 @@
-# GaliMeta
+WebGL的技术演示
+通过Unity实现
